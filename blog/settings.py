@@ -25,7 +25,7 @@ SECRET_KEY = 'd0-go9v#*r*qmi$)!zgo%bkg=&-fs&a1medg)0(_ld!+00zq#%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'kakawkaization.pythonanywhere.com']
 
 
 # Application definition
